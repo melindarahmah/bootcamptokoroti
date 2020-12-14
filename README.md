@@ -1,2 +1,2 @@
 # bootcamptokoroti
-projectbootcamo
+projectbootcamp
